@@ -1,0 +1,16 @@
+# Questa simulation artifacts
+sim/work/
+sim/*.log
+sim/sim.log
+sim/compile.log
+sim/vsim.dbg
+sim/*.ini
+sim/*.wlf
+sim/transcript
+sim/*.ucdb
+sim/run_test.v
+sim/coverage/
+
+# Misc
+*.bak
+*~
