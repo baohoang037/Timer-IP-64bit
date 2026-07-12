@@ -127,17 +127,23 @@ vi coverage/summary_report.txt      # coverage summary
 
 <table>
   <tr>
-    <td>
-      <b>👤 Hoàng Ngọc Gia Bão</b><br/>
-      🎓 FPT University<br/>
-      📧 <a href="mailto:baohoang037@gmail.com">baohoang037@gmail.com</a><br/>
-      💼 <a href="https://www.linkedin.com/in/bao-hoang-ngoc-gia-883124235/">LinkedIn</a>
-    </td>
+    <td><b>Name</b></td>
+    <td>Hoàng Ngọc Gia Bão</td>
+  </tr>
+  <tr>
+    <td><b>University</b></td>
+    <td>FPT University</td>
+  </tr>
+  <tr>
+    <td><b>Email</b></td>
+    <td><a href="mailto:baohoang037@gmail.com">baohoang037@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/bao-hoang-ngoc-gia-883124235/">linkedin.com/in/bao-hoang-ngoc-gia</a></td>
+  </tr>
+  <tr>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/baohoang037">github.com/baohoang037</a></td>
   </tr>
 </table>
-
----
-
-## License
-
-This project is for educational and portfolio purposes.
