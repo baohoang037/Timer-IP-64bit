@@ -8,7 +8,7 @@ A 64-bit hardware Timer IP with APB slave interface, programmable clock divider,
 
 ## Block Diagram
 
-![Block Diagram](docs/block_diagram.png)
+![Block Diagram](block_diagram.png)
 
 ---
 
@@ -125,4 +125,19 @@ vi coverage/summary_report.txt      # coverage summary
 
 ## Author
 
-**Hoàng Ngọc Gia Bão**
+<table>
+  <tr>
+    <td>
+      <b>👤 Hoàng Ngọc Gia Bão</b><br/>
+      🎓 FPT University<br/>
+      📧 <a href="mailto:baohoang037@gmail.com">baohoang037@gmail.com</a><br/>
+      💼 <a href="https://www.linkedin.com/in/bao-hoang-ngoc-gia-883124235/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## License
+
+This project is for educational and portfolio purposes.
