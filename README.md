@@ -8,7 +8,7 @@ A 64-bit hardware Timer IP with APB slave interface, programmable clock divider,
 
 ## Block Diagram
 
-![Block Diagram](block_diagram.png)
+![Block Diagram](docs/block_diagram.png)
 
 ---
 
