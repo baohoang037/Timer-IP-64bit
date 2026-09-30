@@ -124,7 +124,7 @@ vi coverage/summary_report.txt      # coverage summary
 ---
 
 <a id="author"></a>
-👨‍💻 # Author
+<h1><strong>👨‍💻 Author</strong></h1>
 <table>
   <tr>
     <td colspan="3" align="center">
