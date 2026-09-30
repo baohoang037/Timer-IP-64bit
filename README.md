@@ -124,12 +124,12 @@ vi coverage/summary_report.txt      # coverage summary
 ---
 
 <a id="author"></a>
-Author
+👨‍💻 Author
 <table>
   <tr>
     <td colspan="3" align="center">
       <br>
-      <h2>Hoàng Ngọc Gia Bão</h2>
+      <h2>⚡ Hoàng Ngọc Gia Bão</h2>
       <p><b>Integrated Circuit Design · FPT University</b></p>
       <br>
       <p><b>📬 Connect with me</b></p>
